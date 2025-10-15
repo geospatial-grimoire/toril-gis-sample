@@ -2,7 +2,7 @@
 
 *A minimal sample dataset from the [Toril GIS project](https://github.com/geospatial-grimoire/toril-gis), demonstrating the concept of a fantasy geospatial database for the planet Toril.*
 
----
+<p><img src="screenshot.png" alt="Toril GIS Sample preview" width="600";"></p>
 
 ## Quick Start
 
@@ -17,16 +17,12 @@ toril_gis_sample.qgz
 - The project loads all vector and raster layers, applies predefined styles, and uses the custom **Toril CRS** coordinate system.
 - A `./styles/` folder is included with the QGIS layer styles used in this project.
 
----
-
 ## Overview
 
 **Toril GIS Sample** provides an early, minimal snapshot of the developing **Toril GIS** project — a geospatial database built for the world of *Toril* (Forgotten Realms).
 
 This repository contains coarse, highly simplified experimental layers and a prototype digital elevation model (DEM) used during initial data tests.
 It is intended for demonstration and educational purposes.
-
----
 
 ## Included Layers
 
@@ -64,16 +60,12 @@ If desired, the same vector layers are also available reprojected in the followi
 For a deeper explanation of Toril's custom coordinate systems and projection design, see:
 [Crafting Coordinate Systems for Faerûn and Beyond](https://www.geospatial-grimoire.com/blog/2024/11/09/crafting-coordinate-systems-for-faerun-and-beyond.html)
 
----
-
 ## Intended Use
 
 - Classroom demonstrations in GIS and cartography
 - Personal training in QGIS, PostGIS, and raster workflows
 - Technical proof of concept for mapping fictional worlds with real geospatial tools
 - Early preview for contributors awaiting the public release of Toril GIS
-
----
 
 ## Notes
 
@@ -82,8 +74,6 @@ It is intentionally incomplete and heavily generalized — a small fossil from t
 The included QGIS project provides a minimal but functional environment to explore the sample data and its projections.
 
 For more information about the ongoing work, see the [Geospatial Grimoire](https://geospatial-grimoire.com) project.
-
----
 
 ## Usage Terms
 
